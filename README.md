@@ -1,3 +1,3 @@
 # AT_commandset_for_GSM
-#HTTP commandset
+#HTTP /HTTPS commandset
 #socket prog
